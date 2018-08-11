@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Tim Rozmajzl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://www.gravatar.com/avatar/217dd7f174a371510f13cbc35cfa1be9"
   bio              : "Catholic husband and father of 8. Small 'l' (thin?) libertarian and friend of the Austrian School"
   location         : "Canton, OH"
   email            :
