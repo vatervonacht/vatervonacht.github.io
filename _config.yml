@@ -20,9 +20,9 @@ title                    : "Tim Rozmajzl"
 title_separator          : "-"
 name                     : "Tim Rozmajzl"
 description              : "A place to share a few things"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://timrozmajzl.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "vatervonacht/vatervonacht.github.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@TimRozmajzl"
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   avatar           : "https://www.gravatar.com/avatar/217dd7f174a371510f13cbc35cfa1be9"
   bio              : "Catholic husband and father of 8. Small 'l' (thin?) libertarian and friend of the Austrian School"
   location         : "Canton, OH"
-  email            :
+  email            : "tim.rozmajzl@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
