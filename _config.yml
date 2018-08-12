@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Tim Rozmajzl"
   avatar           : "https://www.gravatar.com/avatar/217dd7f174a371510f13cbc35cfa1be9"
-  bio              : "Catholic husband and father of 8. Small 'l' (thin?) libertarian and friend of the Austrian School"
+  bio              : "Catholic husband and father of eight. Student of the Austrian School. Agile technologist and software practitioner "
   location         : "Canton, OH"
   email            : "tim.rozmajzl@gmail.com"
   uri              :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/vatervonacht"
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "timrozmajzl"
   vine             :
   weibo            :
   xing             :
