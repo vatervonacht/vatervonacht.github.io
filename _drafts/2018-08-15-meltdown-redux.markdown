@@ -4,6 +4,7 @@ excerpt: "Tom Woods delivered a *Meltdown* smackdown to Keynesians in 2009.
           Another meltdown is looming. Time to blow the dust of this gem."
 header:
   overlay_image: /assets/images/ice-melting-with-book.png
+comments: true
 ---
 
 > Each time history repeats itself, the price goes up
@@ -58,3 +59,7 @@ a decade ago.  What is no less certain is that, thanks to books like *Meltdown*,
 clear-thinking Austrians will be able to trace concisely from the numerous
 "symptoms" - probably masquerading as causes - back to the ultimate cause - the
 Federal Reserve and its insidious policy of monetary expansion.  
+
+
+
+[![Liberty Classroom]({{ "/assets/images/libertyclassroom.gif" | absolute_url }}){: .align-center}](http://www.libertyclassroom.com/dap/a/?a=117)
