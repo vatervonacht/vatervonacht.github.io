@@ -5,6 +5,9 @@ excerpt: "Tom Woods delivered a *Meltdown* smackdown to Keynesians in 2009.
 header:
   overlay_image: /assets/images/ice-melting-with-book.png
 comments: true
+categories:  ["economics"]
+tags: ["austrian economics", "the fed"]
+
 ---
 
 > Each time history repeats itself, the price goes up
