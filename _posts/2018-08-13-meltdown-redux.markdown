@@ -69,5 +69,7 @@ Federal Reserve and its insidious policy of monetary expansion.
 [![Liberty Classroom]({{ "/assets/images/libertyclassroom.gif" | absolute_url }}){: .align-center}](http://www.libertyclassroom.com/dap/a/?a=117)
 
 <div style="display: block; text-align: center; margin: auto;">
-<span style="font-size: small;"> The above image is an affiliate link. I receive a commission for any purchases made via that link</span>
+<span style="font-size: small;"> 
+The above image is an affiliate link. I receive a commission for any purchases made via that link.
+</span>
 </div>
